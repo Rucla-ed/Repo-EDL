@@ -109,7 +109,7 @@ ggplot(data= df_ecp, aes(x = pct_hispanic, y = first_gen)) + geom_point() + geom
 saveRDS(df_ecp, file.path(plot_dir, "ecp_custom.png"))
 
 
-##Issue2
+##Issue22
 
 #https://github.com/Rucla-ed/rclass2/issues/101
 
